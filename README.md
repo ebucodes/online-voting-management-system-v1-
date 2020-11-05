@@ -35,6 +35,7 @@ Username: admin
 Password: admin
 
 Goodluck and have fun. If you need any assistance or any similar project in a different framework such as CodeIgniter or Laravel or you prefer native PHP like this feel free to contact 
+
 Email address: ebukaohaji@gmail.com.
 
 WhatsApp: 08143409305.
