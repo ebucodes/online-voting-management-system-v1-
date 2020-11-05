@@ -22,7 +22,10 @@ LANGUAGES
 PLUGINS
 1. TableSorter plugin - To sort tables used in Candidates, Voters, Admin.
 
-Here are the details:
+DATABASE
+1. The application uses XAMPP Apache for it SQL database. SO, you must have XAMPP installed on your system for this app to works for you.
+
+DETAILS:
 Create a new database with name: alpha_vote
 Login Credentials
 
